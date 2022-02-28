@@ -1,0 +1,19 @@
+segment_sources:
+  PEC3293BB:
+    type: origin_type
+    relation: translation
+    language: en
+  PC7518B4E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0533dc5e92e94fa09b90089aaa16cf82:
+    PEC3293BB: 2bc66a81b5174bcfaa168a1d7dc41991
+    PC7518B4E: f1e5d5b50f90489eb3ab49998c1a3374
+  3ec617c83d374429a8b007a9f31baf32:
+    PEC3293BB: e0e2ea8e4c71479a807db9d1c9a289cb
+    PC7518B4E: 8751c1a3ffc74c76afe4c872c2819ce0
+  ceb2b68524d64b76a52982d10ecf36fa:
+    PEC3293BB: 1d67a6beb1694c83bf212be793edf239
+    PC7518B4E: 1a057e1e18124640868cb8f5acb4b1ea
